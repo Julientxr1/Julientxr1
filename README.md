@@ -35,6 +35,9 @@
   </tr>
 </table>
 
+### 🏆 GitHub Trophies
+[![](https://github-profile-trophies.vercel.app/?username=Julientxr1&theme=radical&margin-w=15&column=5)](https://github.com/ryo-ma/github-profile-trophies)
+
 ### 🎯 Objectifs d'apprentissage
 * ⚡ **Prochainement :** Je me lance dans l'apprentissage de **ReactJS** pour concevoir des interfaces frontend modernes et dynamiques à coupler avec mes API Python.
 
