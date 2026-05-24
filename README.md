@@ -36,7 +36,7 @@
 </table>
 
 ### 🎯 Objectifs d'apprentissage
-* ⚡ **Prochainement :** Je me lance dans l'apprentissage de **ReactJS** pour concevoir des interfaces frontend modernes, dynamiques et robustes à coupler avec mes API Python.
+* ⚡ **Prochainement :** Je me lance dans l'apprentissage de **ReactJS** pour concevoir des interfaces frontend modernes et dynamiques à coupler avec mes API Python.
 
 ---
 
