@@ -35,9 +35,6 @@
   </tr>
 </table>
 
-### 🏅 Achievements & Certifications
-
-<img src="https://img.shields.io/badge/GitHub_Yolo-FF5722?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/EPITA_Projects-0052CC?style=flat-square&logo=education&logoColor=white" /> <img src="https://img.shields.io/badge/Code_Refactoring_Champ-4CAF50?style=flat-square&logo=gitkraken&logoColor=white" />
 
 ### 🎯 Objectifs d'apprentissage
 * ⚡ **Prochainement :** Je me lance dans l'apprentissage de **ReactJS** pour concevoir des interfaces frontend modernes et dynamiques à coupler avec mes API Python.
